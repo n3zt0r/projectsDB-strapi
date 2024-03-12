@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_techs_tools",
+  "info": {
+    "displayName": "tools"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
